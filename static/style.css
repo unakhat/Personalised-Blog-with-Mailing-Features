@@ -1,0 +1,20 @@
+/* CSS styles are here */
+
+p {
+    color: blue;
+}
+
+h1 {
+    color: pink;
+   
+}
+header {
+	color: blue;
+}
+footer {
+	color: blue;
+}
+#title {
+    text-align: center;
+    color: red;
+}
